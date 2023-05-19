@@ -5,8 +5,8 @@ A sample Streamlit web application for generative question-answering with LangCh
 
 <img src="./langchain-pinecone-qa.png" alt="langchain-pinecone-qa"/>
 
-For a detailed tutorial on generative question-answering with LangChain and Pinecone, see [this post](http://alphasec.io/generative-question-answering-with-langchain-and-pinecone).
+For a detailed tutorial on generative question-answering with LangChain and Pinecone, see [this post](https://alphasec.io/generative-question-answering-with-langchain-and-pinecone).
 
 To deploy on [Railway](https://railway.app/?referralCode=alphasec) using a one-click template, click the button below.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/xxxxxx?referralCode=alphasec)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Rg70kF?referralCode=alphasec)
